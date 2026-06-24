@@ -74,4 +74,5 @@ This is an overview of all stories that have been released by Emerald Legacy.
 - link:pass:[stories/64 - Reflections Part I Chapter 3.pdf][64 - Reflections Part I Chapter 3]
 - link:pass:[stories/65 - Night Raid.pdf][65 - Night Raid]
 - link:pass:[stories/66 - Reflections Part I Chapter 4.pdf][66 - Reflections Part I Chapter 4]
+- link:pass:[stories/67 - Sleep With Me.pdf][67 - Sleep With Me]
 
